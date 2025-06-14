@@ -1,0 +1,33 @@
+{
+  "folders": [
+    {
+      "name": "Raíz del Proyecto",
+      "path": "."
+    },
+    {
+      "name": "Gestión Proyectos",
+      "path": "gest_proj"
+    },
+    {
+      "name": "AutoHotkey",
+      "path": "ahk_proj"
+    },
+    {
+      "name": "OT4 Proyect",
+      "path": "ot4_proj"
+    },
+    {
+      "name": "Hiboutik API",
+      "path": "hiboutik_api"
+    },
+    {
+      "name": "Otros Proyectos",
+      "path": "proj"
+    },
+    {
+      "name": "Vendor",
+      "path": "vendor"
+    }
+  ],
+  "settings": {}
+}
