@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "type": "Carretera",
+        "size": 49,
+        "available": true,
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "type": "Carretera",
+        "size": 52,
+        "available": true,
+        "stock": 2
+    },
+    {
+        "id": 3,
+        "type": "Carretera",
+        "size": 54,
+        "available": true,
+        "stock": 2
+    },
+    {
+        "id": 4,
+        "type": "Carretera",
+        "size": 56,
+        "available": true,
+        "stock": 2
+    },
+    {
+        "id": 5,
+        "type": "Carretera",
+        "size": 58,
+        "available": false,
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "type": "Carretera",
+        "size": 61,
+        "available": true,
+        "stock": 1
+    },
+    {
+        "id": 7,
+        "type": "Gravel",
+        "size": 49,
+        "available": false,
+        "stock": 0
+    },
+    {
+        "id": 8,
+        "type": "Gravel",
+        "size": 52,
+        "available": false,
+        "stock": 0
+    }
+]

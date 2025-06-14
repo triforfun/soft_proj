@@ -1,0 +1,25 @@
+# Entornos virtuales
+**/.venv/
+**/venv/
+
+# Builds y ejecutables
+**/build/
+**/dist/
+**/*.exe
+
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs y datos temporales
+*.log
+*.tmp
+*.bak

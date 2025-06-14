@@ -1,0 +1,165 @@
+Sub EncontrarTalla()
+    ' serveix pels fulls de calcul.XSLM
+    '   MIRAR TALLES NEOS EXPLORES.XSLM
+    '   MIRAR TALLES NEOS IGNITE.XLSM
+    '   MIRAR TALLES EXPLORER PUIG.XLSM
+    Dim wsConsultas As Worksheet
+    Dim wsResultados As Worksheet
+    Dim wsCopiaConsultas As Worksheet
+    Dim wsTallas As Worksheet
+    Dim wsLista As Worksheet
+    Dim filaConsulta As Long
+    Dim filaResultado As Long
+    Dim lastRowConsultas As Long
+    Dim firstEmptyRowCopia As Long
+    Dim genero As String
+    Dim nombre As String
+    Dim peso As Double
+    Dim altura As Double
+    Dim tallaPropuestaPeso As String
+    Dim tallaPropuestaAltura As String
+    Dim pesoMin As Double
+    Dim pesoMax As Double
+    Dim alturaMin As Double
+    Dim alturaMax As Double
+    Dim diferenciaPeso As Double
+    Dim diferenciaAltura As Double
+    Dim menorDiferenciaPeso As Double
+    Dim menorDiferenciaAltura As Double
+    Dim i As Long
+    Dim idPrenda As String
+    Dim nombrePrenda As String
+    Dim coinciden As String
+    
+    ' Establecer referencias a las hojas
+    Set wsConsultas = Sheets("Consultas")
+    Set wsResultados = Sheets("Resultados")
+    Set wsLista = Sheets("Lista")
+    Set wsCopiaConsultas = ThisWorkbook.Sheets("Copia_Consultas")
+    
+    ' Preguntar si se desea borrar los resultados anteriores
+    If wsResultados.Cells(Rows.Count, 1).End(xlUp).Row > 1 Then
+        If MsgBox("¿Deseas borrar todos los resultados anteriores?", vbYesNo + vbQuestion, "Borrar Resultados") = vbYes Then
+            wsResultados.Rows("2:" & wsResultados.Cells(Rows.Count, 1).End(xlUp).Row).ClearContents
+            wsLista.Columns("D").ClearContents ' Borrar asignaciones en la hoja "Lista"
+        End If
+    End If
+    
+    ' Añadir cabecera a la hoja "Resultados"
+    wsResultados.Cells(1, 1).Value = "Nombre"
+    wsResultados.Cells(1, 2).Value = "Peso Introducido"
+    wsResultados.Cells(1, 3).Value = "Altura Introducida"
+    wsResultados.Cells(1, 4).Value = "Peso Mínimo (Talla por Peso)"
+    wsResultados.Cells(1, 5).Value = "Peso Máximo (Talla por Peso)"
+    wsResultados.Cells(1, 6).Value = "Altura Mínima (Talla por Altura)"
+    wsResultados.Cells(1, 7).Value = "Altura Máxima (Talla por Altura)"
+    wsResultados.Cells(1, 8).Value = "Talla Propuesta por Peso"
+    wsResultados.Cells(1, 9).Value = "Talla Propuesta por Altura"
+    wsResultados.Cells(1, 10).Value = "Coinciden"
+    wsResultados.Cells(1, 11).Value = "ID Prenda"
+    wsResultados.Cells(1, 12).Value = "Nombre Prenda"
+    
+    ' Recorrer las filas de la hoja "Consultas"
+    filaConsulta = 2
+    Do While wsConsultas.Cells(filaConsulta, 1).Value <> ""
+        genero = wsConsultas.Cells(filaConsulta, 1).Value
+        nombre = wsConsultas.Cells(filaConsulta, 2).Value
+        peso = Round(wsConsultas.Cells(filaConsulta, 3).Value, 2)
+        altura = Round(wsConsultas.Cells(filaConsulta, 4).Value, 2)
+        
+        ' Establecer referencia a la hoja de tallas correspondiente
+        If genero = "W" Then
+            Set wsTallas = Sheets("TallasW")
+        ElseIf genero = "M" Then
+            Set wsTallas = Sheets("TallasM")
+        Else
+            MsgBox "Género no válido en la fila " & filaConsulta
+            filaConsulta = filaConsulta + 1
+            GoTo SiguienteFila
+        End If
+        
+        ' Inicializar variables
+        menorDiferenciaPeso = 999999
+        menorDiferenciaAltura = 999999
+        tallaPropuestaPeso = ""
+        tallaPropuestaAltura = ""
+        
+        ' Recorrer la tabla de tallas
+        For i = 2 To wsTallas.Cells(Rows.Count, 1).End(xlUp).Row
+            pesoMin = Round(Val(Split(wsTallas.Cells(i, 2).Value, "-")(0)), 2)
+            pesoMax = Round(Val(Split(wsTallas.Cells(i, 2).Value, "-")(1)), 2)
+            alturaMin = Round(Val(Split(wsTallas.Cells(i, 3).Value, "-")(0)), 2)
+            alturaMax = Round(Val(Split(wsTallas.Cells(i, 3).Value, "-")(1)), 2)
+            
+            ' Calcular diferencias
+            diferenciaPeso = Abs(peso - (pesoMin + pesoMax) / 2)
+            diferenciaAltura = Abs(altura - (alturaMin + alturaMax) / 2)
+            
+            ' Determinar la talla propuesta basada en la menor diferencia de peso
+            If diferenciaPeso < menorDiferenciaPeso Then
+                menorDiferenciaPeso = diferenciaPeso
+                tallaPropuestaPeso = wsTallas.Cells(i, 1).Value
+                ' Guardar los valores mínimos y máximos correspondientes
+                pesoMinPeso = pesoMin
+                pesoMaxPeso = pesoMax
+            End If
+            
+            ' Determinar la talla propuesta basada en la menor diferencia de altura
+            If diferenciaAltura < menorDiferenciaAltura Then
+                menorDiferenciaAltura = diferenciaAltura
+                tallaPropuestaAltura = wsTallas.Cells(i, 1).Value
+                ' Guardar los valores mínimos y máximos correspondientes
+                alturaMinAltura = alturaMin
+                alturaMaxAltura = alturaMax
+            End If
+        Next i
+        
+        ' Determinar si las tallas propuestas por peso y altura coinciden
+        If tallaPropuestaPeso = tallaPropuestaAltura Then
+            coinciden = "Sí"
+        Else
+            coinciden = "No"
+        End If
+        
+        ' Buscar la primera prenda libre en la hoja "Lista" que coincida con la talla propuesta por peso
+        For i = 2 To wsLista.Cells(Rows.Count, 1).End(xlUp).Row
+            If wsLista.Cells(i, 3).Value = tallaPropuestaPeso And wsLista.Cells(i, 4).Value <> "Asignada" Then
+                idPrenda = wsLista.Cells(i, 1).Value
+                nombrePrenda = wsLista.Cells(i, 2).Value
+                wsLista.Cells(i, 4).Value = "Asignada" ' Marcar la fila como asignada
+                Exit For
+            End If
+        Next i
+        
+        ' Registrar los resultados en la hoja "Resultados"
+        filaResultado = wsResultados.Cells(Rows.Count, 1).End(xlUp).Row + 1
+        wsResultados.Cells(filaResultado, 1).Value = nombre
+        wsResultados.Cells(filaResultado, 2).Value = peso
+        wsResultados.Cells(filaResultado, 3).Value = altura
+        wsResultados.Cells(filaResultado, 4).Value = pesoMinPeso
+        wsResultados.Cells(filaResultado, 5).Value = pesoMaxPeso
+        wsResultados.Cells(filaResultado, 6).Value = alturaMinAltura
+        wsResultados.Cells(filaResultado, 7).Value = alturaMaxAltura
+        wsResultados.Cells(filaResultado, 8).Value = tallaPropuestaPeso
+        wsResultados.Cells(filaResultado, 9).Value = tallaPropuestaAltura
+        wsResultados.Cells(filaResultado, 10).Value = coinciden
+        wsResultados.Cells(filaResultado, 11).Value = idPrenda
+        wsResultados.Cells(filaResultado, 12).Value = nombrePrenda
+        
+SiguienteFila:
+        filaConsulta = filaConsulta + 1
+    Loop
+    ' Encontrar la última fila con datos en la hoja Consultas
+    lastRowConsultas = wsConsultas.Cells(wsConsultas.Rows.Count, "A").End(xlUp).Row
+
+    ' Encontrar la primera fila vacía en la hoja Copia_Consultas
+    firstEmptyRowCopia = wsCopiaConsultas.Cells(wsCopiaConsultas.Rows.Count, "A").End(xlUp).Row + 1
+
+    ' Copiar los datos de Consultas a Copia_Consultas
+    wsConsultas.Range("A2:E" & lastRowConsultas).Copy Destination:=wsCopiaConsultas.Range("A" & firstEmptyRowCopia)
+
+    ' Borrar los datos de la hoja Consultas
+    wsConsultas.Range("A2:E" & lastRowConsultas).ClearContents
+
+End Sub
+

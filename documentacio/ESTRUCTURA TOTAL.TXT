@@ -1,0 +1,23 @@
+AQUESTA ESTRUCTURA SUBTITUIRA AL .BAT GENERA_STOCKS.BAT
+part 1
+    aqui ens baixem els csv de CDC-SPORT(STOCKCDC.CSV) i de SOMOSDEPORTISTAS (STOCKSSD.CSV)
+        descarrega_ftp.py 
+part 2 
+    aqui esborrem els fitxers anteriors que estan a la carpeta c:\users\onlin\downloads\
+    borrar_dowloads_antics.py
+part 3
+    descarreguem els fitxers del proveidor UDRA
+    descarrega_UDRA_ver_3.py
+part 4
+    descarreguem SPIUK
+    descarregaSPIUK.py
+part 5
+    descarreguem els fitxers actualitzats de HB
+    exportaHB.py
+part 6
+    descarreguem el proveidor ORCA
+    descarregaORCA.py
+part 7
+    descarreguem directament de les seves urls SAILFISH i BLUNAE
+    descarregaSF_BL.py
+    

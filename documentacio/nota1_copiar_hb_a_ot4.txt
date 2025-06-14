@@ -1,0 +1,85 @@
+este es un proyecto por partes para escribir codigo en python. la idea general es que tengo en el ordenador de la tienda un programa con productos y otro programa en la nube al que tengo que alimentar de los mismo productos, pero que tienen estructuras diferentes. Al programa de la tienda le llamaremos HB. al programa de la nube OT4.  HB me genera un fichero .csv que llamaremos extract_produits_tailles.csv que tiene esta estructura de campos 
+
+
+id
+Nombre
+Categoría
+Marca
+Tipo de variante
+Variación
+id Variación
+Código de barras
+Precio Compra (sin IVA)
+Proveedor
+Ref. proveedor
+Precio Venta
+Impuesto
+Precio Descuento
+puntos +
+
+en el fichero extract_produit_tailles la id de un producto estara tantas veces como variantes tenga ese producto
+
+ lo primero es que el usuario pueda escoger que Ids de HB quiere traspasar a OT4, para ello le daremos 3 posibilidades, hacerlo entre dos numeros de id (la id siempre es un numero) o bien introduciendo separadamente varias id. No generes nada hasta que te diga que empieces.
+
+la estructura de destino de OT4 es esta 
+
+tipo
+id_interno
+padre
+publicado
+imagen
+gestion_stock
+iva
+precio_coste
+peso
+volumen
+referencia
+codigo_barras
+stock_proveedor
+stock
+marca
+proveedor
+nombre_es
+precio_es
+precio_oferta_es
+nombre_atributo_1
+valor_atributo_1
+
+el valor de tipo sera ="P" si la id en HB es unica. Si la id esta repetida varias veces en HB habra que generar una primera fila en la cual el valor de tipo="M"  y los otros valores seran id_interno	"HB."&hb.id
+padre	buscar en un fichero cruzado que se llama c:/TFF/GESTIO/HIBOUTIK/PLANTILLES_IMPORT_EXPORT/creuat_categories_hb_ot4.xlsx
+
+publicado	 = 1
+imagen	= "sin imagen"
+gestion_stock=	1
+iva=	21
+precio_coste	= hb.Precio Compra (sin Iva)*1,21
+peso= 	0,5
+volumen	= 0
+referencia	= hb.Ref proveedor
+codigo_barras	= ""
+stock_proveedor= 	0
+stock	= hb.TRI FOR FUN, S.L.
+marca	buscar en un fichero cruzado que te dire mas tarde
+proveedor	buscar en un fichero cruzado que te dire mas tarde
+nombre_es	= HB.nombre
+precio_es	 = hb.Precio Venta
+precio_oferta_es	= 0
+nombre_atributo_1	buscar en un fichero cruzado que te dire mas tarde
+valor_atributo_1	buscar en un fichero cruzado que te dire mas tarde
+
+para el campo marca deberas buscar en el fichero excel llamado C:/TFF/GESTIO/HIBOUTIK/PLANTILLES_IMPORT_EXPORT/creuat_marques_hb_ot4.xlsx lo buscas en la columna Nombre y retornas el valor que esta en la columna id_interno_ot4
+
+para el campo proveedor utiliza el fichero C:\TFF\GESTIO\HIBOUTIK\PLANTILLES_IMPORT_EXPORT/creuat_provees_hb_ot4.xlsx y buscas el valo en la columna Nombe y devuelves el que esta en la columna provee_ot4
+
+para las lineas tipo="M" de ot4 el valor de nombre_atributo1 estara en blanco. Para las lineas tipo="V" debes buscar en el fichero C:\TFF\GESTIO\HIBOUTIK\PLANTILLES_IMPORT_EXPORT\creuat_variants_hb_ot4.xlsx y en la hoja productes_amb_variants primero concatenas los valores de la fila de hb que estas tratando tipo de variante & ".-" & id variacion y ese valor lo buscas en la columna idunic y devuelves para nombre_atributo_1 el valor de la columna nom_atrib1 y para valor_atributo_1 el valor de la columna val_atrib1
+
+los ficheros .csv estan con codificacion UTF-8 y utlizan como separador ";"
+
+
+el path para los ficheros excel arranca en "C:/TFF/GESTIO/HIBOUTIK/PLANTILLES_IMPORT_EXPORT/ "   y el path del fichero hb esta en "C:/TFF/DOCS/ONLINE/STOCKS_EXTERNS/"
+
+
+recapitulemos 
+referente al campo padre de OT4 
+si el valor de tipo es ="P"  o es "M"buscar en un fichero cruzado que se llama c:/TFF/GESTIO/HIBOUTIK/PLANTILLES_IMPORT_EXPORT/creuat_categories_hb_ot4.xls buscamos el valor que contiene Categoría de HB en la columna Nombre del excel y devolvemos el valor de la columna nom_ot4. Igualmente que en las otras busquedas gestionamos la posbilidad de que no se encuentre y devolvemos "NO ENCONTRADO"
+

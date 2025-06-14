@@ -1,0 +1,1282 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es 848B-5023
+C:.
+ÃÄÄÄahk_proj
+³   ÀÄÄÄ.venv
+³       ÃÄÄÄInclude
+³       ³   ÀÄÄÄsite
+³       ³       ÀÄÄÄpython3.12
+³       ³           ÀÄÄÄgreenlet
+³       ÃÄÄÄLib
+³       ³   ÀÄÄÄsite-packages
+³       ³       ÃÄÄÄattr
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄattrs
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄattrs-25.3.0.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄcertifi
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄcertifi-2025.4.26.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄcffi
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄcffi-1.17.1.dist-info
+³       ³       ÃÄÄÄgreenlet
+³       ³       ³   ÃÄÄÄplatform
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄtests
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄgreenlet-3.2.3.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄh11
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄh11-0.16.0.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄidna
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄidna-3.10.dist-info
+³       ³       ÃÄÄÄoutcome
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄoutcome-1.3.0.post0.dist-info
+³       ³       ÃÄÄÄpip
+³       ³       ³   ÃÄÄÄ_internal
+³       ³       ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcommands
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistributions
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄindex
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄlocations
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ÃÄÄÄimportlib
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmodels
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄnetwork
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄoperations
+³       ³       ³   ³   ³   ÃÄÄÄbuild
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄinstall
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄreq
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolution
+³       ³       ³   ³   ³   ÃÄÄÄlegacy
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄutils
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄvcs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_vendor
+³       ³       ³   ³   ÃÄÄÄcachecontrol
+³       ³       ³   ³   ³   ÃÄÄÄcaches
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcertifi
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄchardet
+³       ³       ³   ³   ³   ÃÄÄÄcli
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄmetadata
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcolorama
+³       ³       ³   ³   ³   ÃÄÄÄtests
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistlib
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄdistro
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄidna
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄmsgpack
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpackaging
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpkg_resources
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄplatformdirs
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpygments
+³       ³       ³   ³   ³   ÃÄÄÄfilters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄformatters
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄlexers
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄstyles
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpyparsing
+³       ³       ³   ³   ³   ÃÄÄÄdiagram
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄpyproject_hooks
+³       ³       ³   ³   ³   ÃÄÄÄ_in_process
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrequests
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄresolvelib
+³       ³       ³   ³   ³   ÃÄÄÄcompat
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄrich
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtenacity
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtomli
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄurllib3
+³       ³       ³   ³   ³   ÃÄÄÄcontrib
+³       ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄpackages
+³       ³       ³   ³   ³   ³   ÃÄÄÄbackports
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄutil
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄwebencodings
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄpip-23.2.1.dist-info
+³       ³       ÃÄÄÄplaywright
+³       ³       ³   ÃÄÄÄasync_api
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄdriver
+³       ³       ³   ³   ÀÄÄÄpackage
+³       ³       ³   ³       ÃÄÄÄbin
+³       ³       ³   ³       ÃÄÄÄlib
+³       ³       ³   ³       ³   ÃÄÄÄcli
+³       ³       ³   ³       ³   ÃÄÄÄclient
+³       ³       ³   ³       ³   ÃÄÄÄgenerated
+³       ³       ³   ³       ³   ÃÄÄÄprotocol
+³       ³       ³   ³       ³   ÃÄÄÄremote
+³       ³       ³   ³       ³   ÃÄÄÄserver
+³       ³       ³   ³       ³   ³   ÃÄÄÄandroid
+³       ³       ³   ³       ³   ³   ÃÄÄÄbidi
+³       ³       ³   ³       ³   ³   ³   ÀÄÄÄthird_party
+³       ³       ³   ³       ³   ³   ÃÄÄÄchromium
+³       ³       ³   ³       ³   ³   ÃÄÄÄcodegen
+³       ³       ³   ³       ³   ³   ÃÄÄÄdispatchers
+³       ³       ³   ³       ³   ³   ÃÄÄÄelectron
+³       ³       ³   ³       ³   ³   ÃÄÄÄfirefox
+³       ³       ³   ³       ³   ³   ÃÄÄÄhar
+³       ³       ³   ³       ³   ³   ÃÄÄÄrecorder
+³       ³       ³   ³       ³   ³   ÃÄÄÄregistry
+³       ³       ³   ³       ³   ³   ÃÄÄÄtrace
+³       ³       ³   ³       ³   ³   ³   ÃÄÄÄrecorder
+³       ³       ³   ³       ³   ³   ³   ÃÄÄÄtest
+³       ³       ³   ³       ³   ³   ³   ÀÄÄÄviewer
+³       ³       ³   ³       ³   ³   ÃÄÄÄutils
+³       ³       ³   ³       ³   ³   ³   ÀÄÄÄimage_tools
+³       ³       ³   ³       ³   ³   ÀÄÄÄwebkit
+³       ³       ³   ³       ³   ÃÄÄÄthird_party
+³       ³       ³   ³       ³   ÃÄÄÄutils
+³       ³       ³   ³       ³   ³   ÀÄÄÄisomorphic
+³       ³       ³   ³       ³   ÃÄÄÄutilsBundleImpl
+³       ³       ³   ³       ³   ÀÄÄÄvite
+³       ³       ³   ³       ³       ÃÄÄÄhtmlReport
+³       ³       ³   ³       ³       ÃÄÄÄrecorder
+³       ³       ³   ³       ³       ³   ÀÄÄÄassets
+³       ³       ³   ³       ³       ÀÄÄÄtraceViewer
+³       ³       ³   ³       ³           ÀÄÄÄassets
+³       ³       ³   ³       ÀÄÄÄtypes
+³       ³       ³   ÃÄÄÄsync_api
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_impl
+³       ³       ³   ³   ÃÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pyinstaller
+³       ³       ³   ³       ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄplaywright-1.52.0.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄpycparser
+³       ³       ³   ÃÄÄÄply
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄpycparser-2.22.dist-info
+³       ³       ÃÄÄÄpyee
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄpyee-13.0.0.dist-info
+³       ³       ÃÄÄÄPySocks-1.7.1.dist-info
+³       ³       ÃÄÄÄselenium
+³       ³       ³   ÃÄÄÄcommon
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄwebdriver
+³       ³       ³   ³   ÃÄÄÄchrome
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄchromium
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄcommon
+³       ³       ³   ³   ³   ÃÄÄÄactions
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄbidi
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄdevtools
+³       ³       ³   ³   ³   ³   ÃÄÄÄv135
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÃÄÄÄv136
+³       ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ³   ÀÄÄÄv137
+³       ³       ³   ³   ³   ³       ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄfedcm
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÃÄÄÄlinux
+³       ³       ³   ³   ³   ÃÄÄÄmacos
+³       ³       ³   ³   ³   ÃÄÄÄwindows
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄedge
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄfirefox
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄie
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄremote
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄsafari
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄsupport
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄwebkitgtk
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄwpewebkit
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄselenium-4.33.0.dist-info
+³       ³       ÃÄÄÄsniffio
+³       ³       ³   ÃÄÄÄ_tests
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄsniffio-1.3.1.dist-info
+³       ³       ÃÄÄÄsortedcontainers
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄsortedcontainers-2.4.0.dist-info
+³       ³       ÃÄÄÄtrio
+³       ³       ³   ÃÄÄÄtesting
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_core
+³       ³       ³   ³   ÃÄÄÄ_tests
+³       ³       ³   ³   ³   ÃÄÄÄtype_tests
+³       ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_subprocess_platform
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_tests
+³       ³       ³   ³   ÃÄÄÄtools
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÃÄÄÄtype_tests
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄ_tools
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄtrio-0.30.0.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄtrio_websocket
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄtrio_websocket-0.12.2.dist-info
+³       ³       ÃÄÄÄtyping_extensions-4.13.2.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄurllib3
+³       ³       ³   ÃÄÄÄcontrib
+³       ³       ³   ³   ÃÄÄÄemscripten
+³       ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄhttp2
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÃÄÄÄutil
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄurllib3-2.4.0.dist-info
+³       ³       ³   ÀÄÄÄlicenses
+³       ³       ÃÄÄÄwebsocket
+³       ³       ³   ÃÄÄÄtests
+³       ³       ³   ³   ÃÄÄÄdata
+³       ³       ³   ³   ÀÄÄÄ__pycache__
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄwebsocket_client-1.8.0.dist-info
+³       ³       ÃÄÄÄwsproto
+³       ³       ³   ÀÄÄÄ__pycache__
+³       ³       ÃÄÄÄwsproto-1.2.0.dist-info
+³       ³       ÀÄÄÄ__pycache__
+³       ÀÄÄÄScripts
+ÃÄÄÄbcr_proj
+³   ÃÄÄÄfitxers_JSON
+³   ÀÄÄÄhello_elementor_child
+³       ÀÄÄÄjs
+ÃÄÄÄdocumentacio
+ÃÄÄÄflask_proj
+ÃÄÄÄgest_proj
+³   ÃÄÄÄ.vscode
+³   ÃÄÄÄbuild
+³   ³   ÀÄÄÄTriforfunToolkit
+³   ³       ÀÄÄÄlocalpycs
+³   ÀÄÄÄdist
+³       ÀÄÄÄTriforfunToolkit
+³           ÀÄÄÄ_internal
+³               ÃÄÄÄtcl8
+³               ³   ÃÄÄÄ8.4
+³               ³   ³   ÀÄÄÄplatform
+³               ³   ÃÄÄÄ8.5
+³               ³   ÀÄÄÄ8.6
+³               ÃÄÄÄ_tcl_data
+³               ³   ÃÄÄÄencoding
+³               ³   ÃÄÄÄhttp1.0
+³               ³   ÃÄÄÄmsgs
+³               ³   ÃÄÄÄopt0.4
+³               ³   ÀÄÄÄtzdata
+³               ³       ÃÄÄÄAfrica
+³               ³       ÃÄÄÄAmerica
+³               ³       ³   ÃÄÄÄArgentina
+³               ³       ³   ÃÄÄÄIndiana
+³               ³       ³   ÃÄÄÄKentucky
+³               ³       ³   ÀÄÄÄNorth_Dakota
+³               ³       ÃÄÄÄAntarctica
+³               ³       ÃÄÄÄArctic
+³               ³       ÃÄÄÄAsia
+³               ³       ÃÄÄÄAtlantic
+³               ³       ÃÄÄÄAustralia
+³               ³       ÃÄÄÄBrazil
+³               ³       ÃÄÄÄCanada
+³               ³       ÃÄÄÄChile
+³               ³       ÃÄÄÄEtc
+³               ³       ÃÄÄÄEurope
+³               ³       ÃÄÄÄIndian
+³               ³       ÃÄÄÄMexico
+³               ³       ÃÄÄÄPacific
+³               ³       ÃÄÄÄSystemV
+³               ³       ÀÄÄÄUS
+³               ÀÄÄÄ_tk_data
+³                   ÃÄÄÄimages
+³                   ÃÄÄÄmsgs
+³                   ÀÄÄÄttk
+ÃÄÄÄot4_proj
+³   ÃÄÄÄ.venv
+³   ³   ÃÄÄÄInclude
+³   ³   ³   ÀÄÄÄsite
+³   ³   ³       ÀÄÄÄpython3.12
+³   ³   ³           ÀÄÄÄgreenlet
+³   ³   ÃÄÄÄLib
+³   ³   ³   ÀÄÄÄsite-packages
+³   ³   ³       ÃÄÄÄattr
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄattrs
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄattrs-25.2.0.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄcertifi
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄcertifi-2025.1.31.dist-info
+³   ³   ³       ÃÄÄÄcffi
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄcffi-1.17.1.dist-info
+³   ³   ³       ÃÄÄÄchardet
+³   ³   ³       ³   ÃÄÄÄcli
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄmetadata
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄchardet-5.2.0.dist-info
+³   ³   ³       ÃÄÄÄcharset_normalizer
+³   ³   ³       ³   ÃÄÄÄcli
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄcharset_normalizer-3.4.1.dist-info
+³   ³   ³       ÃÄÄÄdateutil
+³   ³   ³       ³   ÃÄÄÄparser
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtz
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄzoneinfo
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄdotenv
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄet_xmlfile
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄet_xmlfile-2.0.0.dist-info
+³   ³   ³       ÃÄÄÄgreenlet
+³   ³   ³       ³   ÃÄÄÄplatform
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄgreenlet-3.2.3.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄh11
+³   ³   ³       ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄh11-0.14.0.dist-info
+³   ³   ³       ÃÄÄÄidna
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄidna-3.10.dist-info
+³   ³   ³       ÃÄÄÄnumpy
+³   ³   ³       ³   ÃÄÄÄchar
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcompat
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcore
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄdoc
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄf2py
+³   ³   ³       ³   ³   ÃÄÄÄsrc
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÃÄÄÄsrc
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄabstract_interface
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄarray_from_pyobj
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄassumed_shape
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄblock_docstring
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcallback
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcli
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcommon
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcrackfortran
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄf2cmap
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄisocintrin
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄkind
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmixed
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmodules
+³   ³   ³       ³   ³   ³   ³   ³   ÃÄÄÄgh25337
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄgh26920
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄnegative_bounds
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄparameter
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄquoted_character
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄregression
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄreturn_character
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄreturn_complex
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄreturn_integer
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄreturn_logical
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄreturn_real
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄroutines
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄsize
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄstring
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄvalue_attrspec
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄ_backends
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄfft
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄlib
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄlinalg
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄma
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄmatrixlib
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄpolynomial
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄrandom
+³   ³   ³       ³   ³   ÃÄÄÄlib
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄ_examples
+³   ³   ³       ³   ³   ³   ÃÄÄÄcffi
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄcython
+³   ³   ³       ³   ³   ³   ÀÄÄÄnumba
+³   ³   ³       ³   ³   ³       ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄrec
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄstrings
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtesting
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄ_private
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtyping
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄfail
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmisc
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄpass
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄreveal
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_core
+³   ³   ³       ³   ³   ÃÄÄÄinclude
+³   ³   ³       ³   ³   ³   ÀÄÄÄnumpy
+³   ³   ³       ³   ³   ³       ÀÄÄÄrandom
+³   ³   ³       ³   ³   ÃÄÄÄlib
+³   ³   ³       ³   ³   ³   ÃÄÄÄnpy-pkg-config
+³   ³   ³       ³   ³   ³   ÀÄÄÄpkgconfig
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ³   ÃÄÄÄexamples
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcython
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄlimited_api
+³   ³   ³       ³   ³   ³   ³       ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_pyinstaller
+³   ³   ³       ³   ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_typing
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_utils
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄnumpy-2.2.6.dist-info
+³   ³   ³       ÃÄÄÄnumpy.libs
+³   ³   ³       ÃÄÄÄopenpyxl
+³   ³   ³       ³   ÃÄÄÄcell
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄchart
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄchartsheet
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcomments
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcompat
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄdescriptors
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄdrawing
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄformatting
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄformula
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄpackaging
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄpivot
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄreader
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄstyles
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄutils
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄworkbook
+³   ³   ³       ³   ³   ÃÄÄÄexternal_link
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄworksheet
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄwriter
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄxml
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄopenpyxl-3.1.5.dist-info
+³   ³   ³       ÃÄÄÄoutcome
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄoutcome-1.3.0.post0.dist-info
+³   ³   ³       ÃÄÄÄpackaging
+³   ³   ³       ³   ÃÄÄÄlicenses
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpackaging-24.2.dist-info
+³   ³   ³       ÃÄÄÄpandas
+³   ³   ³       ³   ÃÄÄÄapi
+³   ³   ³       ³   ³   ÃÄÄÄextensions
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindexers
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄinterchange
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtypes
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtyping
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄarrays
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcompat
+³   ³   ³       ³   ³   ÃÄÄÄnumpy
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄcore
+³   ³   ³       ³   ³   ÃÄÄÄarrays
+³   ³   ³       ³   ³   ³   ÃÄÄÄarrow
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄsparse
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄarray_algos
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcomputation
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdtypes
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄgroupby
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindexers
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindexes
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄinterchange
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄinternals
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄops
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄreshape
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄsparse
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄstrings
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtools
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄutil
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄwindow
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄ_numba
+³   ³   ³       ³   ³   ³   ÃÄÄÄkernels
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄerrors
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄio
+³   ³   ³       ³   ³   ÃÄÄÄclipboard
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄexcel
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄformats
+³   ³   ³       ³   ³   ³   ÃÄÄÄtemplates
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄjson
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄparsers
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄsas
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄplotting
+³   ³   ³       ³   ³   ÃÄÄÄ_matplotlib
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ÃÄÄÄapi
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄapply
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄarithmetic
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄarrays
+³   ³   ³       ³   ³   ³   ÃÄÄÄboolean
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄcategorical
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdatetimes
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄfloating
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄinteger
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄinterval
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmasked
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄnumpy_
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄperiod
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄsparse
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄstring_
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄtimedeltas
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄbase
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcomputation
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄconfig
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄconstruction
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcopy_view
+³   ³   ³       ³   ³   ³   ÃÄÄÄindex
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdtypes
+³   ³   ³       ³   ³   ³   ÃÄÄÄcast
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄextension
+³   ³   ³       ³   ³   ³   ÃÄÄÄarray_with_attr
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄbase
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdate
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdecimal
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄjson
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄlist
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄframe
+³   ³   ³       ³   ³   ³   ÃÄÄÄconstructors
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄindexing
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄgeneric
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄgroupby
+³   ³   ³       ³   ³   ³   ÃÄÄÄaggregate
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄtransform
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindexes
+³   ³   ³       ³   ³   ³   ÃÄÄÄbase_class
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄcategorical
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdatetimelike_
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdatetimes
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄinterval
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmulti
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄnumeric
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄobject
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄperiod
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄranges
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄtimedeltas
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindexing
+³   ³   ³       ³   ³   ³   ÃÄÄÄinterval
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmultiindex
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄinterchange
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄinternals
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄio
+³   ³   ³       ³   ³   ³   ÃÄÄÄexcel
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄformats
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄstyle
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄjson
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄparser
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄcommon
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄdtypes
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄusecols
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄpytables
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄsas
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄxml
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄlibs
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄplotting
+³   ³   ³       ³   ³   ³   ÃÄÄÄframe
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄreductions
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄresample
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄreshape
+³   ³   ³       ³   ³   ³   ÃÄÄÄconcat
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmerge
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄscalar
+³   ³   ³       ³   ³   ³   ÃÄÄÄinterval
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄperiod
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄtimedelta
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄtimestamp
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄseries
+³   ³   ³       ³   ³   ³   ÃÄÄÄaccessors
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄindexing
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄmethods
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄstrings
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtools
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtseries
+³   ³   ³       ³   ³   ³   ÃÄÄÄfrequencies
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄholiday
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄoffsets
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtslibs
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄutil
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄwindow
+³   ³   ³       ³   ³   ³   ÃÄÄÄmoments
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄtseries
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄutil
+³   ³   ³       ³   ³   ÃÄÄÄversion
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_config
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_libs
+³   ³   ³       ³   ³   ÃÄÄÄtslibs
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄwindow
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_testing
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpandas-2.2.3.dist-info
+³   ³   ³       ÃÄÄÄpandas.libs
+³   ³   ³       ÃÄÄÄpip
+³   ³   ³       ³   ÃÄÄÄ_internal
+³   ³   ³       ³   ³   ÃÄÄÄcli
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcommands
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdistributions
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄindex
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄlocations
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄmetadata
+³   ³   ³       ³   ³   ³   ÃÄÄÄimportlib
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄmodels
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄnetwork
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄoperations
+³   ³   ³       ³   ³   ³   ÃÄÄÄbuild
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄinstall
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄreq
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄresolution
+³   ³   ³       ³   ³   ³   ÃÄÄÄlegacy
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄresolvelib
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄutils
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄvcs
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_vendor
+³   ³   ³       ³   ³   ÃÄÄÄcachecontrol
+³   ³   ³       ³   ³   ³   ÃÄÄÄcaches
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcertifi
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdependency_groups
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdistlib
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄdistro
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄidna
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄmsgpack
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄpackaging
+³   ³   ³       ³   ³   ³   ÃÄÄÄlicenses
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄpkg_resources
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄplatformdirs
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄpygments
+³   ³   ³       ³   ³   ³   ÃÄÄÄfilters
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄformatters
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄlexers
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄstyles
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄpyproject_hooks
+³   ³   ³       ³   ³   ³   ÃÄÄÄ_in_process
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄrequests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄresolvelib
+³   ³   ³       ³   ³   ³   ÃÄÄÄresolvers
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄrich
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtomli
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtomli_w
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtruststore
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄurllib3
+³   ³   ³       ³   ³   ³   ÃÄÄÄcontrib
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄpackages
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄbackports
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄutil
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpip-25.1.1.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄplaywright
+³   ³   ³       ³   ÃÄÄÄasync_api
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄdriver
+³   ³   ³       ³   ³   ÀÄÄÄpackage
+³   ³   ³       ³   ³       ÃÄÄÄbin
+³   ³   ³       ³   ³       ÃÄÄÄlib
+³   ³   ³       ³   ³       ³   ÃÄÄÄcli
+³   ³   ³       ³   ³       ³   ÃÄÄÄclient
+³   ³   ³       ³   ³       ³   ÃÄÄÄgenerated
+³   ³   ³       ³   ³       ³   ÃÄÄÄprotocol
+³   ³   ³       ³   ³       ³   ÃÄÄÄremote
+³   ³   ³       ³   ³       ³   ÃÄÄÄserver
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄandroid
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄbidi
+³   ³   ³       ³   ³       ³   ³   ³   ÀÄÄÄthird_party
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄchromium
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄcodegen
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄdispatchers
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄelectron
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄfirefox
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄhar
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄrecorder
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄregistry
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄtrace
+³   ³   ³       ³   ³       ³   ³   ³   ÃÄÄÄrecorder
+³   ³   ³       ³   ³       ³   ³   ³   ÃÄÄÄtest
+³   ³   ³       ³   ³       ³   ³   ³   ÀÄÄÄviewer
+³   ³   ³       ³   ³       ³   ³   ÃÄÄÄutils
+³   ³   ³       ³   ³       ³   ³   ³   ÀÄÄÄimage_tools
+³   ³   ³       ³   ³       ³   ³   ÀÄÄÄwebkit
+³   ³   ³       ³   ³       ³   ÃÄÄÄthird_party
+³   ³   ³       ³   ³       ³   ÃÄÄÄutils
+³   ³   ³       ³   ³       ³   ³   ÀÄÄÄisomorphic
+³   ³   ³       ³   ³       ³   ÃÄÄÄutilsBundleImpl
+³   ³   ³       ³   ³       ³   ÀÄÄÄvite
+³   ³   ³       ³   ³       ³       ÃÄÄÄhtmlReport
+³   ³   ³       ³   ³       ³       ÃÄÄÄrecorder
+³   ³   ³       ³   ³       ³       ³   ÀÄÄÄassets
+³   ³   ³       ³   ³       ³       ÀÄÄÄtraceViewer
+³   ³   ³       ³   ³       ³           ÀÄÄÄassets
+³   ³   ³       ³   ³       ÀÄÄÄtypes
+³   ³   ³       ³   ÃÄÄÄsync_api
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_impl
+³   ³   ³       ³   ³   ÃÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pyinstaller
+³   ³   ³       ³   ³       ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄplaywright-1.52.0.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄpycparser
+³   ³   ³       ³   ÃÄÄÄply
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpycparser-2.22.dist-info
+³   ³   ³       ÃÄÄÄpyee
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpyee-13.0.0.dist-info
+³   ³   ³       ÃÄÄÄPySocks-1.7.1.dist-info
+³   ³   ³       ÃÄÄÄpython_dateutil-2.9.0.post0.dist-info
+³   ³   ³       ÃÄÄÄpython_dotenv-1.0.1.dist-info
+³   ³   ³       ÃÄÄÄpytz
+³   ³   ³       ³   ÃÄÄÄzoneinfo
+³   ³   ³       ³   ³   ÃÄÄÄAfrica
+³   ³   ³       ³   ³   ÃÄÄÄAmerica
+³   ³   ³       ³   ³   ³   ÃÄÄÄArgentina
+³   ³   ³       ³   ³   ³   ÃÄÄÄIndiana
+³   ³   ³       ³   ³   ³   ÃÄÄÄKentucky
+³   ³   ³       ³   ³   ³   ÀÄÄÄNorth_Dakota
+³   ³   ³       ³   ³   ÃÄÄÄAntarctica
+³   ³   ³       ³   ³   ÃÄÄÄArctic
+³   ³   ³       ³   ³   ÃÄÄÄAsia
+³   ³   ³       ³   ³   ÃÄÄÄAtlantic
+³   ³   ³       ³   ³   ÃÄÄÄAustralia
+³   ³   ³       ³   ³   ÃÄÄÄBrazil
+³   ³   ³       ³   ³   ÃÄÄÄCanada
+³   ³   ³       ³   ³   ÃÄÄÄChile
+³   ³   ³       ³   ³   ÃÄÄÄEtc
+³   ³   ³       ³   ³   ÃÄÄÄEurope
+³   ³   ³       ³   ³   ÃÄÄÄIndian
+³   ³   ³       ³   ³   ÃÄÄÄMexico
+³   ³   ³       ³   ³   ÃÄÄÄPacific
+³   ³   ³       ³   ³   ÀÄÄÄUS
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄpytz-2025.2.dist-info
+³   ³   ³       ÃÄÄÄrequests
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄrequests-2.32.3.dist-info
+³   ³   ³       ÃÄÄÄselenium
+³   ³   ³       ³   ÃÄÄÄcommon
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄwebdriver
+³   ³   ³       ³   ³   ÃÄÄÄchrome
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄchromium
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄcommon
+³   ³   ³       ³   ³   ³   ÃÄÄÄactions
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄbidi
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄdevtools
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄv131
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄv132
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÃÄÄÄv133
+³   ³   ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄv85
+³   ³   ³       ³   ³   ³   ³       ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄfedcm
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄlinux
+³   ³   ³       ³   ³   ³   ÃÄÄÄmacos
+³   ³   ³       ³   ³   ³   ÃÄÄÄwindows
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄedge
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄfirefox
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄie
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄremote
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄsafari
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄsupport
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄwebkitgtk
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄwpewebkit
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄselenium-4.29.0.dist-info
+³   ³   ³       ÃÄÄÄsix-1.17.0.dist-info
+³   ³   ³       ÃÄÄÄsniffio
+³   ³   ³       ³   ÃÄÄÄ_tests
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄsniffio-1.3.1.dist-info
+³   ³   ³       ÃÄÄÄsortedcontainers
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄsortedcontainers-2.4.0.dist-info
+³   ³   ³       ÃÄÄÄtrio
+³   ³   ³       ³   ÃÄÄÄtesting
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_core
+³   ³   ³       ³   ³   ÃÄÄÄ_tests
+³   ³   ³       ³   ³   ³   ÃÄÄÄtype_tests
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_subprocess_platform
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_tests
+³   ³   ³       ³   ³   ÃÄÄÄtools
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄtype_tests
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄ_tools
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄtrio-0.29.0.dist-info
+³   ³   ³       ÃÄÄÄtrio_websocket
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄtrio_websocket-0.12.2.dist-info
+³   ³   ³       ÃÄÄÄtyping_extensions-4.12.2.dist-info
+³   ³   ³       ÃÄÄÄtzdata
+³   ³   ³       ³   ÃÄÄÄzoneinfo
+³   ³   ³       ³   ³   ÃÄÄÄAfrica
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄAmerica
+³   ³   ³       ³   ³   ³   ÃÄÄÄArgentina
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄIndiana
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄKentucky
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÃÄÄÄNorth_Dakota
+³   ³   ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄAntarctica
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄArctic
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄAsia
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄAtlantic
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄAustralia
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄBrazil
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄCanada
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄChile
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄEtc
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄEurope
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄIndian
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄMexico
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄPacific
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÃÄÄÄUS
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄtzdata-2025.2.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ³       ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄurllib3
+³   ³   ³       ³   ÃÄÄÄcontrib
+³   ³   ³       ³   ³   ÃÄÄÄemscripten
+³   ³   ³       ³   ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄhttp2
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄutil
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄurllib3-2.3.0.dist-info
+³   ³   ³       ³   ÀÄÄÄlicenses
+³   ³   ³       ÃÄÄÄwebdriver_manager
+³   ³   ³       ³   ÃÄÄÄcore
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÃÄÄÄdrivers
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄwebdriver_manager-4.0.2.dist-info
+³   ³   ³       ÃÄÄÄwebsocket
+³   ³   ³       ³   ÃÄÄÄtests
+³   ³   ³       ³   ³   ÃÄÄÄdata
+³   ³   ³       ³   ³   ÀÄÄÄ__pycache__
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄwebsocket_client-1.8.0.dist-info
+³   ³   ³       ÃÄÄÄwsproto
+³   ³   ³       ³   ÀÄÄÄ__pycache__
+³   ³   ³       ÃÄÄÄwsproto-1.2.0.dist-info
+³   ³   ³       ÀÄÄÄ__pycache__
+³   ³   ÀÄÄÄScripts
+³   ÀÄÄÄsandbox
+ÃÄÄÄsandbox
+ÀÄÄÄvba_proj

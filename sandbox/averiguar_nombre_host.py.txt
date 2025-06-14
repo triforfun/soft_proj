@@ -1,0 +1,3 @@
+import socket
+nombre_host = socket.gethostname()
+print (nombre_host)
